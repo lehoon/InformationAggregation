@@ -496,6 +496,7 @@ var FrontGuide = {
                 {'Name':'Dreamweaver','Title':'','Href':'http://www.adobe.com/cn/products/dreamweaver.html'},
                 {'Name':'IntelliJIDEA','Title':'','Href':'http://www.jetbrains.com/idea/'},
                 {'Name':'Aptana','Title':'','Href':'http://www.aptana.com/'},
+                {'Name':'Source Insight','Title':'Source Insight','Href':'https://www.sourceinsight.com/'},
             ]
             },{
             "pageT2":"切图工具",
