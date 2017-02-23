@@ -17,10 +17,10 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"前端教程",
             "pageC2":[
-                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/',"New":"1"}, 
+                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/'}, 
                 {'Name':'极客学院','Title':'在线视频教学，强大的知识体系','Href':'http://www.jikexueyuan.com/'},
                 {'Name':'teamtree','Title':'改变你的事业。改变你的生活。','Href':'https://teamtreehouse.com/'},
-                {'Name':'Codecademy','Title':'Codecademy是最简单的方式来学习如何编码。这是互动的，有趣的，你可以做它与你的朋友','Href':'https://www.codecademy.com/learn',"New":"1"},
+                {'Name':'Codecademy','Title':'Codecademy是最简单的方式来学习如何编码。这是互动的，有趣的，你可以做它与你的朋友','Href':'https://www.codecademy.com/learn'},
                 {'Name':'萌码','Title':'在线编程学习，实时问答，交互学习','Href':'http://www.mengma.com/'},
                 {'Name':'实验楼','Title':'第一家以实验为核心的IT在线教育平台','Href':'https://www.shiyanlou.com/'},
                 {'Name':'墨鱼前端','Title':'前端开发培训的公司','Href':'http://moyu-edu.com/'},
@@ -496,7 +496,7 @@ var FrontGuide = {
                 {'Name':'Dreamweaver','Title':'','Href':'http://www.adobe.com/cn/products/dreamweaver.html'},
                 {'Name':'IntelliJIDEA','Title':'','Href':'http://www.jetbrains.com/idea/'},
                 {'Name':'Aptana','Title':'','Href':'http://www.aptana.com/'},
-                {'Name':'Source Insight','Title':'Source Insight','Href':'https://www.sourceinsight.com/'},
+                {'Name':'Source Insight','Title':'Source Insight','Href':'https://www.sourceinsight.com/',"New":"1"},
             ]
             },{
             "pageT2":"切图工具",
@@ -615,6 +615,16 @@ var FrontGuide = {
                 {'Name':'Git 魔法','Title':'','Href':'http://wiki.jikexueyuan.com/project/git-magic/'},
                 {'Name':'Pro Git v2 中文版','Title':'','Href':'http://wiki.jikexueyuan.com/project/pro-git-two/'},
                 {'Name':'像 geek 一样写博客','Title':'','Href':'http://wiki.jikexueyuan.com/project/github-page/'},
+            ]
+        }]},{
+        "pageT1":"后端开发",
+        "pageC1":[{
+            "pageT2":"消息中间件",
+            "pageC2":[
+                {'Name':'RocketMQ','Title':'RocketMQ 是一款分布式、队列模型的消息中间件','Href':'http://rocketmq.apache.org',"New":"1"},
+                {'Name':'RabbitMQ','Title':'RabbitMQ是一个由erlang开发的高性能消息中间件','Href':'http://www.rabbitmq.com',"New":"1"},
+                {'Name':'ActiveMQ','Title':'ActiveMQ 是Apache出品，最流行的，能力强劲的开源消息总线','Href':'http://activemq.apache.org',"New":"1"},
+                {'Name':'Kafka','Title':'Kafka是一种高吞吐量的分布式发布订阅消息系统','Href':'http://kafka.apache.org',"New":"1"},
             ]
         }]},{
         "pageT1":"找工作",
